@@ -1,8 +1,8 @@
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
-NAME:M.RADHIMEENA 
-DEPT:CSE
-REG NO:212223040159
+# NAME:PRAVISH.J
+# DEPT:CSE
+# REG NO:212224040249
 
 # AIM:
 To Write a C program that illustrates two processes communicating using shared memory.
